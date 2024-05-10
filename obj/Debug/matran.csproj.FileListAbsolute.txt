@@ -1,0 +1,7 @@
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\matran\bin\Debug\matran.exe.config
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\matran\bin\Debug\matran.exe
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\matran\bin\Debug\matran.pdb
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\matran\obj\Debug\matran.csproj.AssemblyReference.cache
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\matran\obj\Debug\matran.csproj.CoreCompileInputs.cache
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\matran\obj\Debug\matran.exe
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\matran\obj\Debug\matran.pdb
